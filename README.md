@@ -4,7 +4,7 @@
 
 📍 I'm natively from Goa, 🇮🇳
 
-🔨 Working on the app [House of Recreation](https://github.com/tanayseven/house-of-recreation)
+🔨 Working on the app [SKIM](https://github.com/tanayseven/skim)
 
 👨 To know more about me go to my [website](https://tanayseven.com/)
 
