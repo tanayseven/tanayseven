@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-📍 I'm currently in Oxford, 🇬🇧
-
-📍 I'm natively from Goa, 🇮🇳
+📍 I'm currently in Goa, 🇮🇳
 
 🔨 Working on the app [SKIM](https://github.com/tanayseven/skim)
 
