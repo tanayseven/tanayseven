@@ -2,7 +2,7 @@
 
 📍 I'm currently in Goa, 🇮🇳
 
-🔨 Working on the app [SKIM](https://github.com/tanayseven/skim)
+🔨 Working on the app [playindoor.games](https://github.com/tanayseven)
 
 👨 To know more about me go to my [website](https://tanayseven.com/)
 
