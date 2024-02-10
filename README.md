@@ -4,7 +4,7 @@
 
 🔨 Working on a few personal projects
 
-👨 To know more about me go to my [website](https://tanayseven.com/)
+👨 To know more about me go to my [website](https://tanay.tech/)
 
 
 
