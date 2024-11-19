@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📍 I'm currently in Goa, 🇮🇳
+📍 I'm currently in Bangalore [ಬೆಂಗಳೂರು], 🇮🇳
 
 🔨 Working on a few personal projects
 
