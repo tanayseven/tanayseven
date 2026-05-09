@@ -16,7 +16,8 @@
 
 🏗️ Checkout my [projects here](https://projects.tanay.tech)
 
-📡 Connect with me:  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tanay.tech) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tanayseven)
+📡 Connect with me:
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tanay.tech) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tanayseven)
 
 ---
 
