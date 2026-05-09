@@ -2,9 +2,9 @@
 
 📍 I'm currently in Bangalore [ಬೆಂಗಳೂರು], 🇮🇳
 
-🎮 Indie developer building small, useful, and fun software  
+🎮 Software Engineer working at [Equal Experts](https://www.equalexperts.com/) building simple and useful software focused on AI
 
-🛠️ I like creating tools, games, and apps that solve real problems  
+🛠️ As a hobby I like creating tools, games, and apps that solve real problems  
 
 🤖 Exploring AI/LLMs to build smarter tools and assistants  
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 Indie Dev Philosophy
+## 🧠 Hobby Dev Philosophy
 
 - Build things because they should exist  
 - Ship fast, refine later  
